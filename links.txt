@@ -1,0 +1,11 @@
+fontconfig http://www.freedesktop.org/software/fontconfig/release/ http://www.freedesktop.org/software/fontconfig/release/fontconfig-2.11.93.tar.gz
+frei0r https://files.dyne.org/frei0r/ https://files.dyne.org/frei0r/snapshots/frei0r-snapshot-27-01-15.tar.gz
+gnutls http://www.gnutls.org/download.html ftp://ftp.gnutls.org/gcrypt/gnutls/v3.3/gnutls-3.3.9.tar.xz
+iconv http://www.gnu.org/software/libiconv/ http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.14.tar.gz
+libaacplus http://www.tipok.org.ua/node/17 http://www.tipok.org.ua/downloads/media/aacplus/libaacplus/libaacplus-2.0.2.tar.gz
+libass http://code.google.com/p/libass/ 
+libbluray http://www.videolan.org/developers/libbluray.html ftp://ftp.videolan.org/pub/videolan/libbluray/0.8.1/libbluray-0.8.1.tar.bz2
+libbs2b http://bs2b.sourceforge.net/ 
+libcaca http://caca.zoy.org/wiki/libcaca http://caca.zoy.org/files/libcaca/libcaca-0.9.tar.gz
+libcelt http://celt-codec.org/ http://downloads.xiph.org/releases/celt/celt-0.11.1.tar.gz
+libcdio http://www.gnu.org/software/libcdio/ 

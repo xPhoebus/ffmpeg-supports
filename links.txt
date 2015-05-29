@@ -9,3 +9,15 @@ libbs2b http://bs2b.sourceforge.net/
 libcaca http://caca.zoy.org/wiki/libcaca http://caca.zoy.org/files/libcaca/libcaca-0.9.tar.gz
 libcelt http://celt-codec.org/ http://downloads.xiph.org/releases/celt/celt-0.11.1.tar.gz
 libcdio http://www.gnu.org/software/libcdio/ 
+libdc1394 
+libfaac http://www.audiocoding.com/downloads.html
+libfdk-aac http://wiki.hydrogenaud.io/index.php?title=Fraunhofer_FDK_AAC  http://sourceforge.net/p/opencore-amr/fdk-aac/ci/master/tree/ http://sourceforge.net/projects/opencore-amr/files/ 
+libflite http://packages.ubuntu.com/lucid/libflite1 http://archive.ubuntu.com/ubuntu/pool/main/f/flite/flite_1.3-release.orig.tar.gz
+libfreetype http://www.freetype.org/ http://download.savannah.gnu.org/releases/freetype/freetype-2.5.5.tar.gz
+libfribidi http://fribidi.org/ http://fribidi.org/download/fribidi-0.19.6.tar.bz2
+libgme 
+libgsm http://libgsm.sourcearchive.com/
+libiec61883 https://ieee1394.wiki.kernel.org/index.php/Libraries  https://www.kernel.org/pub/linux/libs/ieee1394/
+libilbc https://github.com/TimothyGu/libilbc
+libmfx
+libmodplug http://sourceforge.net/projects/modplug-xmms/
